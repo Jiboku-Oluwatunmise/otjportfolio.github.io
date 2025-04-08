@@ -50,6 +50,7 @@ The link to the video session is [here](https://drive.google.com/file/d/1-w4V5bC
 
 ### Project 4
 
+
 ! [Market Prediction Product](https://github.com/Jiboku-Oluwatunmise/Hankali-Data-Senior-Python-Script](https://github.com/Jiboku-Oluwatunmise/marketing-prediction-product.git ) 
 
 In this project, I used two sets of marketing data (testing and training) to predict which customers are most likely to purchase a particular product in a bank. The goal  is to curate a mini-application to track customers in a bank willing to buy the 'bank term deposit' product and automatically remind the CRMs to call these individuals. The project shows the development of the product through the data science process from data pre-processing to cleaning, EDA, modelling, testing-training, algorithm development, and evaluation. While the results revealed that more data is required for testing and training, the model attained a 91% accuracy score through the RandomForest Classifier. Specifically, the model can predict which customers who will not take the product and use that as a means to segment the customers who will take up the product. 
